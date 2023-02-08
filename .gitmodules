@@ -1,0 +1,3 @@
+[submodule "FT"]
+	path = FT
+	url = https://github.com/near-examples/FT.git
