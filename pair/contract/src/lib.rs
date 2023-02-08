@@ -36,10 +36,13 @@ impl Contract{
         }
     }
 
-    pub fn _safeTransfer(token: AccountId, to: AccountId, i32 value) {
-        // Call the token contract
-        // A
+    pub fn safeTransfer(token: AccountId, to: AccountId, i32 value) {
+        // Replicate the workflow here
+        // Send a transaction to the contract to confirm the ft transfer
+        // Then, ensure the callback works
     }
+
+
 
 
 }
