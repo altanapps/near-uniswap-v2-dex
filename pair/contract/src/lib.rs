@@ -37,6 +37,7 @@ impl Contract{
     }
 
     pub fn safeTransfer(token: AccountId, to: AccountId, i32 value) {
+        // https://github.com/near-examples/cross-contract-hello-rust/blob/main/contract/src/lib.rs
         // Replicate the workflow here
         // Send a transaction to the contract to confirm the ft transfer
         // Then, ensure the callback works
