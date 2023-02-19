@@ -1,0 +1,1 @@
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/src/external.rs /Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/src/lib.rs
