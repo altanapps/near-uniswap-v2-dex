@@ -1,0 +1,10 @@
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/debug/deps/secp256k1-27aaa468f4a6216e.rmeta: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs
+
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/debug/deps/secp256k1-27aaa468f4a6216e.d: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs
+
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs:

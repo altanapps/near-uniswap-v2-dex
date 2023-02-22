@@ -1,0 +1,8 @@
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/debug/deps/libimpl_trait_for_tuples-608fe7925a95ce6b.dylib: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/debug/deps/impl_trait_for_tuples-608fe7925a95ce6b.d: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs:

@@ -1,0 +1,12 @@
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/debug/deps/semver-7b8a87807c7f50b3.rmeta: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs
+
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/contract/target/debug/deps/semver-7b8a87807c7f50b3.d: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs
+
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs:

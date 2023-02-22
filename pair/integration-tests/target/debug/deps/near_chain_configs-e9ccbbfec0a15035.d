@@ -1,0 +1,8 @@
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/integration-tests/target/debug/deps/near_chain_configs-e9ccbbfec0a15035.rmeta: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/client_config.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/genesis_config.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/genesis_validate.rs
+
+/Users/Altan.Tutar/Desktop/code-musings/near-uniswap-v2-dex/pair/integration-tests/target/debug/deps/near_chain_configs-e9ccbbfec0a15035.d: /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/lib.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/client_config.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/genesis_config.rs /Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/genesis_validate.rs
+
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/lib.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/client_config.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/genesis_config.rs:
+/Users/Altan.Tutar/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.15.0/src/genesis_validate.rs:
